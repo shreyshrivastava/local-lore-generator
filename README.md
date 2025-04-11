@@ -2,7 +2,8 @@
 
 Craft region-specific Indian fables, myths, and folk stories using cutting-edge AI — powered by Groq’s LLaMA 4 and DALL·E for visuals.
 
-![App Screenshot](https://huggingface.co/spaces/shrey2105/local-lore-generator/resolve/main/placeholder.png)
+![App Screenshot](![image](https://github.com/user-attachments/assets/76e79aea-00e6-46cd-ae5d-eb0744698424)
+)
 
 ---
 
