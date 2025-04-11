@@ -1,2 +1,4 @@
-streamlit
-requests
+gradio
+groq
+openai==0.28
+python-dotenv
